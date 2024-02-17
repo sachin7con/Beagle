@@ -2,13 +2,21 @@
 *{
   font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: 400;
     font-variation-settings:
       "slnt" 0;
+  margin-left:10px;
 }
-
+h1{
+  font-weight: 400;
+  text-decoration: underline;
+}
 img{
   width: 1051px;
   height: 894px;
 
+}
+
+ol{
+  margin-left: -10px;
 }
