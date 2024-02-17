@@ -1,0 +1,14 @@
+/* ONS */
+*{
+  font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-variation-settings:
+      "slnt" 0;
+}
+
+img{
+  width: 1051px;
+  height: 894px;
+
+}
